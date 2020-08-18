@@ -39,4 +39,3 @@ http://0.0.0.0:7000/?token=<TOKEN_GOES_HERE>
 - Notebooks
 	- [Dynamics of the double pendulum](https://github.com/RussTedrake/underactuated/blob/master/examples/double_pendulum/dynamics.ipynb)
 	- [Feedback Cancellation of the Double Pendulum](https://github.com/RussTedrake/underactuated/blob/master/examples/double_pendulum/feedback_cancellation.ipynb)
-
