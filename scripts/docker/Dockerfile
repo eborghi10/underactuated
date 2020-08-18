@@ -39,3 +39,5 @@ RUN /tmp/install_prereqs.sh \
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US.UTF-8
 ENV LC_ALL en_US.UTF-8
+# Add underactuated to PYTHONPATH
+ENV PYTHONPATH /root/underactuated:${PYTHONPATH}
